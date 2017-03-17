@@ -1,2 +1,7 @@
 # pkrc267.github.io
-adding golden horn review
+
+This is my web portfolio.
+
+
+This has been made using webslides.
+Please visit webslides.tv for wonderful experience.
